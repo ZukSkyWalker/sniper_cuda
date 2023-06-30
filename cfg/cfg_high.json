@@ -1,0 +1,14 @@
+{
+  "lidar_height": 2.56,
+  "grd_dist_max": 90.0,
+  "dist_grid_size": 2.0,
+  "max_slope": 0.1,
+  "max_delta_slope": 0.15,
+  "slope_diff_cut": 4e-2,
+  "dz_cut_local": 0.25,
+  "dz_cut_global": 0.6,
+  "blooming_amp": 5e-3,
+  "momentum_decay_gamma": 0.95,
+  "eps_cluster": 0.5,
+  "min_pts_cluster": 5
+}

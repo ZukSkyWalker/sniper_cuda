@@ -1,0 +1,12 @@
+{
+"roll": 0.0, "pitch": -0.016, "yaw": 0, "lidar_height": 1.8, "min_grd_dist": 6, "max_grd_dist": 55,
+"dist_max": 220, "dist_grid": 0.2, "d_phi": 4e-3, "phi_max": 0.98, "h_grid_size": 0.25,
+"global_dz": 0.6, "global_slope_cut": 2.0e-2, "local_dz_min": 0.1, "local_dz_max": 0.3,
+"eps_cluster": 0.4, "min_pts_cluster": 3, "n_z_grids": 40,"nb_grids_x": 10,"nb_grids_y": 3,
+"bkg_prob_thresh": 5200, "max_sig_radius": 10.0, "max_sig_height": 3.5,
+"max_ped_radius": 0.8, "max_ped_height": 2.1, "max_cyc_radius": 1.0, "max_cyc_height": 2.5,
+"min_sig_radius": 0.2, "min_sig_height": 0.9, "v_var_thresh": 1.0,
+"min_sig_pts": 8, "alert_dist": 30, "prob_thresh": 0.35, "prob_min":0.05, "base_ground_grid_cut": 5,
+"sig_rate": 2, "bkg_rate": 1, "max_delta_bkg_rate": 4, "shift_thresh": 2,
+"untracked_time_cut": 3.5, "static_time_threshold": 40.0
+}
